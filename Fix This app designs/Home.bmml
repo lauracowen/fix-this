@@ -3,8 +3,8 @@
     <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="115" y="38" w="462" h="883" measuredW="462" measuredH="883" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="6" x="17" y="63" w="426" h="32"/>
-        <override controlID="-1"/>
         <override controlID="6:10" x="293" y="5" w="129" h="27"/>
+        <override controlID="-1"/>
         <src>$ACCOUNT/assets/Samsung%20Galaxy%20Nexus.bmml#gNex60PercentPortrait</src>
       </controlProperties>
     </control>
@@ -12,11 +12,11 @@
       <controlProperties>
         <override controlID="0" x="0" y="0" w="422" h="48"/>
         <override controlID="12" x="384" y="12" w="12" h="24"/>
-        <override controlID="12:4" x="0" y="0" w="12" h="24"/>
+        <override controlID="12:2" x="2" y="17" w="7" h="6"/>
         <override controlID="12:0" x="2" y="1" w="7" h="6"/>
+        <override controlID="12:4" x="0" y="0" w="12" h="24"/>
         <override controlID="12:1" x="2" y="9" w="7" h="6"/>
         <override controlID="-1"/>
-        <override controlID="12:2" x="2" y="17" w="7" h="6"/>
         <src>$ACCOUNT/assets/Android%204%20Controls.bmml#ga-action-bar-split2</src>
       </controlProperties>
     </control>
@@ -61,8 +61,8 @@
     <control controlID="20" controlTypeID="com.balsamiq.mockups::Component" x="678" y="38" w="462" h="883" measuredW="462" measuredH="883" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="6" x="17" y="63" w="426" h="32"/>
-        <override controlID="-1"/>
         <override controlID="6:10" x="293" y="5" w="129" h="27"/>
+        <override controlID="-1"/>
         <src>$ACCOUNT/assets/Samsung%20Galaxy%20Nexus.bmml#gNex60PercentPortrait</src>
       </controlProperties>
     </control>
@@ -70,11 +70,11 @@
       <controlProperties>
         <override controlID="0" x="0" y="0" w="422" h="48"/>
         <override controlID="12" x="384" y="12" w="12" h="24"/>
-        <override controlID="12:4" x="0" y="0" w="12" h="24"/>
+        <override controlID="12:2" x="2" y="17" w="7" h="6"/>
         <override controlID="12:0" x="2" y="1" w="7" h="6"/>
+        <override controlID="12:4" x="0" y="0" w="12" h="24"/>
         <override controlID="12:1" x="2" y="9" w="7" h="6"/>
         <override controlID="-1"/>
-        <override controlID="12:2" x="2" y="17" w="7" h="6"/>
         <src>$ACCOUNT/assets/Android%204%20Controls.bmml#ga-action-bar-split2</src>
       </controlProperties>
     </control>
@@ -164,8 +164,8 @@
     <control controlID="71" controlTypeID="com.balsamiq.mockups::Component" x="1227" y="38" w="462" h="883" measuredW="462" measuredH="883" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="6" x="17" y="63" w="426" h="32"/>
-        <override controlID="-1"/>
         <override controlID="6:10" x="293" y="5" w="129" h="27"/>
+        <override controlID="-1"/>
         <src>$ACCOUNT/assets/Samsung%20Galaxy%20Nexus.bmml#gNex60PercentPortrait</src>
       </controlProperties>
     </control>
@@ -173,11 +173,11 @@
       <controlProperties>
         <override controlID="0" x="0" y="0" w="422" h="48"/>
         <override controlID="12" x="384" y="12" w="12" h="24"/>
-        <override controlID="12:4" x="0" y="0" w="12" h="24"/>
+        <override controlID="12:2" x="2" y="17" w="7" h="6"/>
         <override controlID="12:0" x="2" y="1" w="7" h="6"/>
+        <override controlID="12:4" x="0" y="0" w="12" h="24"/>
         <override controlID="12:1" x="2" y="9" w="7" h="6"/>
         <override controlID="-1"/>
-        <override controlID="12:2" x="2" y="17" w="7" h="6"/>
         <src>$ACCOUNT/assets/Android%204%20Controls.bmml#ga-action-bar-split2</src>
       </controlProperties>
     </control>
@@ -252,10 +252,10 @@
         <text>Coloured%20identifiers%20on%20keys</text>
       </controlProperties>
     </control>
-    <control controlID="93" controlTypeID="com.balsamiq.mockups::Label" x="1304" y="797" w="-1" h="-1" measuredW="67" measuredH="22" zOrder="41" locked="false" isInGroup="-1">
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::Label" x="1304" y="797" w="-1" h="-1" measuredW="96" measuredH="22" zOrder="41" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
-        <text>Any%20colour</text>
+        <text>Use%20any%20colour</text>
       </controlProperties>
     </control>
     <control controlID="99" controlTypeID="com.balsamiq.mockups::Paragraph" x="231" y="397" w="202" h="151" measuredW="275" measuredH="80" zOrder="42" locked="false" isInGroup="-1">
@@ -368,10 +368,10 @@
         <text>Stick%20hook%20to%20back%20of%20new%20photo%20frame</text>
       </controlProperties>
     </control>
-    <control controlID="109" controlTypeID="com.balsamiq.mockups::Label" x="1297" y="547" w="-1" h="-1" measuredW="67" measuredH="22" zOrder="52" locked="false" isInGroup="-1">
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Label" x="1297" y="547" w="-1" h="-1" measuredW="96" measuredH="22" zOrder="52" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
-        <text>Any%20colour</text>
+        <text>Use%20any%20colour</text>
       </controlProperties>
     </control>
     <control controlID="113" controlTypeID="__group__" x="1248" y="815" w="426" h="49" measuredW="426" measuredH="49" zOrder="53" locked="false" isInGroup="-1">
