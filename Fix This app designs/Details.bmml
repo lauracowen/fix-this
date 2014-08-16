@@ -1,6 +1,6 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1447" measuredH="1011" mockupW="1403" mockupH="979">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1096" measuredH="992" mockupW="1041" mockupH="979">
   <controls>
-    <control controlID="117" controlTypeID="com.balsamiq.mockups::Component" x="44" y="32" w="462" h="883" measuredW="462" measuredH="883" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="183" controlTypeID="com.balsamiq.mockups::Component" x="55" y="13" w="462" h="883" measuredW="462" measuredH="883" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="6" x="17" y="63" w="426" h="32"/>
         <override controlID="6:10" x="293" y="5" w="129" h="27"/>
@@ -8,62 +8,62 @@
         <src>$ACCOUNT/assets/Samsung%20Galaxy%20Nexus.bmml#gNex60PercentPortrait</src>
       </controlProperties>
     </control>
-    <control controlID="118" controlTypeID="com.balsamiq.mockups::Component" x="65" y="124" w="422" h="48" measuredW="422" measuredH="48" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="184" controlTypeID="com.balsamiq.mockups::Component" x="76" y="105" w="422" h="48" measuredW="422" measuredH="48" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="0" w="422" h="48"/>
         <override controlID="12" x="384" y="12" w="12" h="24"/>
-        <override controlID="12:2" x="2" y="17" w="7" h="6"/>
-        <override controlID="12:4" x="0" y="0" w="12" h="24"/>
-        <override controlID="12:0" x="2" y="1" w="7" h="6"/>
-        <override controlID="-1"/>
         <override controlID="12:1" x="2" y="9" w="7" h="6"/>
+        <override controlID="12:4" x="0" y="0" w="12" h="24"/>
+        <override controlID="12:2" x="2" y="17" w="7" h="6"/>
+        <override controlID="-1"/>
+        <override controlID="12:0" x="2" y="1" w="7" h="6"/>
         <src>$ACCOUNT/assets/Android%204%20Controls.bmml#ga-action-bar-split2</src>
       </controlProperties>
     </control>
-    <control controlID="119" controlTypeID="com.balsamiq.mockups::Icon" x="73" y="132" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="185" controlTypeID="com.balsamiq.mockups::Icon" x="84" y="113" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>EmptyIcon%7Cmedium</icon>
       </controlProperties>
     </control>
-    <control controlID="120" controlTypeID="com.balsamiq.mockups::Icon" x="336" y="132" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="186" controlTypeID="com.balsamiq.mockups::Icon" x="347" y="113" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <icon>CameraIcon%7Cmedium</icon>
       </controlProperties>
     </control>
-    <control controlID="121" controlTypeID="com.balsamiq.mockups::Icon" x="362" y="126" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="187" controlTypeID="com.balsamiq.mockups::Icon" x="373" y="107" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>PlusIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="122" controlTypeID="com.balsamiq.mockups::Icon" x="383" y="133" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="188" controlTypeID="com.balsamiq.mockups::Icon" x="394" y="114" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <icon>FileIcon%7Cmedium</icon>
       </controlProperties>
     </control>
-    <control controlID="123" controlTypeID="com.balsamiq.mockups::Icon" x="409" y="127" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="189" controlTypeID="com.balsamiq.mockups::Icon" x="420" y="108" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>PlusIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="124" controlTypeID="com.balsamiq.mockups::Label" x="120" y="135" w="-1" h="-1" measuredW="102" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="190" controlTypeID="com.balsamiq.mockups::Label" x="131" y="116" w="-1" h="-1" measuredW="102" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>Things%20to%20fix</text>
       </controlProperties>
     </control>
-    <control controlID="125" controlTypeID="com.balsamiq.mockups::Icon" x="231" y="146" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="191" controlTypeID="com.balsamiq.mockups::Icon" x="242" y="127" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>UpFillTriangleIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="126" controlTypeID="com.balsamiq.mockups::TextArea" x="95" y="191" w="360" h="240" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="192" controlTypeID="com.balsamiq.mockups::TextArea" x="106" y="172" w="360" h="240" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="127" controlTypeID="com.balsamiq.mockups::Label" x="114" y="392" w="-1" h="-1" measuredW="123" measuredH="22" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="193" controlTypeID="com.balsamiq.mockups::Label" x="125" y="373" w="-1" h="-1" measuredW="123" measuredH="22" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10066329</color>
         <italic>true</italic>
@@ -71,30 +71,30 @@
         <text>What%20needs%20fixing%3F</text>
       </controlProperties>
     </control>
-    <control controlID="128" controlTypeID="com.balsamiq.mockups::Label" x="126" y="406" w="-1" h="-1" measuredW="96" measuredH="22" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="194" controlTypeID="com.balsamiq.mockups::Label" x="137" y="387" w="-1" h="-1" measuredW="96" measuredH="22" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
         <text>Use%20any%20colour</text>
       </controlProperties>
     </control>
-    <control controlID="129" controlTypeID="com.balsamiq.mockups::Image" x="105" y="199" w="343" h="194" measuredW="1024" measuredH="576" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="195" controlTypeID="com.balsamiq.mockups::Image" x="116" y="180" w="343" h="194" measuredW="1024" measuredH="576" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/oggcamp-mug.jpg</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="131" controlTypeID="com.balsamiq.mockups::Icon" x="425" y="398" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="196" controlTypeID="com.balsamiq.mockups::Icon" x="436" y="379" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>PencilIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="132" controlTypeID="com.balsamiq.mockups::CallOut" x="65" y="930" w="424" h="80" measuredW="277" measuredH="39" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="197" controlTypeID="com.balsamiq.mockups::CallOut" x="76" y="911" w="424" h="80" measuredW="545" measuredH="39" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16777215</color>
-        <text>Click%20an%20item%27s%20detail%20bar%20to%20edit%20its%20details.</text>
+        <text>Touch%20the%20item%20anywhere%20except%20on%20the%20edit%20button%20to%20open%20the%20item%20with%20its%20details%20view.</text>
       </controlProperties>
     </control>
-    <control controlID="133" controlTypeID="com.balsamiq.mockups::Canvas" x="409" y="391" w="46" h="48" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="198" controlTypeID="com.balsamiq.mockups::Canvas" x="162" y="241" w="170" h="87" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.25</backgroundAlpha>
         <borderColor>16711935</borderColor>
@@ -102,178 +102,96 @@
         <color>10066329</color>
       </controlProperties>
     </control>
-    <control controlID="134" controlTypeID="com.balsamiq.mockups::Component" x="623" y="33" w="462" h="883" measuredW="462" measuredH="883" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="199" controlTypeID="com.balsamiq.mockups::Component" x="634" y="14" w="462" h="883" measuredW="462" measuredH="883" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="6" x="17" y="63" w="426" h="32"/>
-        <override controlID="-1"/>
         <override controlID="6:10" x="293" y="5" w="129" h="27"/>
+        <override controlID="-1"/>
         <src>$ACCOUNT/assets/Samsung%20Galaxy%20Nexus.bmml#gNex60PercentPortrait</src>
       </controlProperties>
     </control>
-    <control controlID="135" controlTypeID="com.balsamiq.mockups::Component" x="644" y="125" w="422" h="48" measuredW="422" measuredH="48" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="200" controlTypeID="com.balsamiq.mockups::Component" x="655" y="106" w="422" h="48" measuredW="422" measuredH="48" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="0" w="422" h="48"/>
         <override controlID="12" x="384" y="12" w="12" h="24"/>
-        <override controlID="12:2" x="2" y="17" w="7" h="6"/>
-        <override controlID="12:4" x="0" y="0" w="12" h="24"/>
-        <override controlID="12:0" x="2" y="1" w="7" h="6"/>
-        <override controlID="-1"/>
         <override controlID="12:1" x="2" y="9" w="7" h="6"/>
+        <override controlID="12:4" x="0" y="0" w="12" h="24"/>
+        <override controlID="12:2" x="2" y="17" w="7" h="6"/>
+        <override controlID="-1"/>
+        <override controlID="12:0" x="2" y="1" w="7" h="6"/>
         <src>$ACCOUNT/assets/Android%204%20Controls.bmml#ga-action-bar-split2</src>
       </controlProperties>
     </control>
-    <control controlID="136" controlTypeID="com.balsamiq.mockups::Icon" x="652" y="133" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="201" controlTypeID="com.balsamiq.mockups::Icon" x="663" y="114" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <icon>GtIcon%7Cmedium</icon>
         <rotation>180</rotation>
       </controlProperties>
     </control>
-    <control controlID="146" controlTypeID="com.balsamiq.mockups::Image" x="645" y="173" w="420" h="237" measuredW="1024" measuredH="576" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="202" controlTypeID="com.balsamiq.mockups::Image" x="656" y="154" w="420" h="237" measuredW="1024" measuredH="576" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/oggcamp-mug.jpg</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="148" controlTypeID="com.balsamiq.mockups::CallOut" x="644" y="931" w="424" h="80" measuredW="411" measuredH="40" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="203" controlTypeID="com.balsamiq.mockups::CallOut" x="655" y="912" w="424" h="80" measuredW="360" measuredH="37" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16777215</color>
-        <text>Details%20view%20where%20you%20can%20optionally%20add%20more%20detail%20to%20the%20item.%0A%20%0AThe%20minimum%20info%20required%20is%20either%20a%20photo%20OR%20a%20name.</text>
+        <text>Can%20swipe%20photos%20to%20view%20them%20if%20there%20is%20more%20than%20one.%0A%20%0AScroll%20down%20if%20the%20notes%20etc%20go%20off%20the%20bottom.</text>
       </controlProperties>
     </control>
-    <control controlID="150" controlTypeID="com.balsamiq.mockups::Icon" x="684" y="133" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="204" controlTypeID="com.balsamiq.mockups::Icon" x="695" y="114" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>EmptyIcon%7Cmedium</icon>
       </controlProperties>
     </control>
-    <control controlID="158" controlTypeID="com.balsamiq.mockups::Component" x="652" y="505" w="370" h="16" measuredW="370" measuredH="16" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="207" controlTypeID="com.balsamiq.mockups::Paragraph" x="677" y="412" w="178" h="22" measuredW="275" measuredH="80" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
-        <override controlID="0" x="0" y="0" w="371" h="26"/>
-        <override controlID="-1"/>
-        <src>$ACCOUNT/assets/Android%204%20Controls.bmml#ga-textfield</src>
-      </controlProperties>
-    </control>
-    <control controlID="159" controlTypeID="com.balsamiq.mockups::Paragraph" x="666" y="494" w="178" h="22" measuredW="275" measuredH="80" zOrder="24" locked="false" isInGroup="-1">
-      <controlProperties>
-        <italic>true</italic>
+        <italic>false</italic>
         <size>16</size>
-        <text>Give%20this%20item%20a%20name</text>
+        <text>Item1</text>
       </controlProperties>
     </control>
-    <control controlID="160" controlTypeID="__group__" x="652" y="552" w="371" h="24" measuredW="371" measuredH="24" zOrder="22" locked="false" isInGroup="-1">
-      <controlProperties>
-        <controlName>ga-spinner</controlName>
-      </controlProperties>
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="371" h="24" measuredW="371" measuredH="24" zOrder="0" locked="false" isInGroup="160">
-          <groupChildrenDescriptors>
-            <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="347" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="0">
-              <controlProperties>
-                <color>0</color>
-                <icon>UpFillTriangleIcon%7Csmall</icon>
-              </controlProperties>
-            </control>
-            <control controlID="5" controlTypeID="__group__" x="0" y="11" w="357" h="9" measuredW="357" measuredH="9" zOrder="0" locked="false" isInGroup="0">
-              <controlProperties>
-                <crop>0%2C667%2C1000%2C333</crop>
-              </controlProperties>
-              <groupChildrenDescriptors>
-                <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="0" w="357" h="-1" measuredW="79" measuredH="26" zOrder="0" locked="false" isInGroup="5"/>
-              </groupChildrenDescriptors>
-            </control>
-          </groupChildrenDescriptors>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="161" controlTypeID="com.balsamiq.mockups::Paragraph" x="666" y="546" w="145" h="22" measuredW="275" measuredH="80" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="208" controlTypeID="com.balsamiq.mockups::Paragraph" x="676" y="449" w="145" h="22" measuredW="275" measuredH="80" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <italic>false</italic>
         <size>16</size>
         <text>Use%20any%20colour</text>
       </controlProperties>
     </control>
-    <control controlID="162" controlTypeID="__group__" x="652" y="604" w="371" h="24" measuredW="371" measuredH="24" zOrder="26" locked="false" isInGroup="-1">
-      <controlProperties>
-        <controlName>ga-spinner</controlName>
-      </controlProperties>
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="371" h="24" measuredW="371" measuredH="24" zOrder="0" locked="false" isInGroup="162">
-          <groupChildrenDescriptors>
-            <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="347" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="0">
-              <controlProperties>
-                <color>0</color>
-                <icon>UpFillTriangleIcon%7Csmall</icon>
-              </controlProperties>
-            </control>
-            <control controlID="5" controlTypeID="__group__" x="0" y="11" w="357" h="9" measuredW="357" measuredH="9" zOrder="0" locked="false" isInGroup="0">
-              <controlProperties>
-                <crop>0%2C667%2C1000%2C333</crop>
-              </controlProperties>
-              <groupChildrenDescriptors>
-                <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="0" w="357" h="-1" measuredW="79" measuredH="26" zOrder="0" locked="false" isInGroup="5"/>
-              </groupChildrenDescriptors>
-            </control>
-          </groupChildrenDescriptors>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="163" controlTypeID="com.balsamiq.mockups::Paragraph" x="666" y="598" w="193" h="22" measuredW="275" measuredH="80" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="210" controlTypeID="com.balsamiq.mockups::Paragraph" x="676" y="495" w="193" h="22" measuredW="275" measuredH="80" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <italic>false</italic>
         <size>16</size>
         <text>Unknown%20quantity</text>
       </controlProperties>
     </control>
-    <control controlID="166" controlTypeID="com.balsamiq.mockups::Component" x="652" y="717" w="369" h="16" measuredW="369" measuredH="16" zOrder="28" locked="false" isInGroup="-1">
-      <controlProperties>
-        <override controlID="0" x="0" y="0" w="370" h="26"/>
-        <override controlID="-1"/>
-        <src>$ACCOUNT/assets/Android%204%20Controls.bmml#ga-textfield</src>
-      </controlProperties>
-    </control>
-    <control controlID="167" controlTypeID="com.balsamiq.mockups::Paragraph" x="658" y="702" w="284" h="22" measuredW="275" measuredH="80" zOrder="29" locked="false" isInGroup="-1">
-      <controlProperties>
-        <italic>true</italic>
-        <size>16</size>
-        <text>Any%20other%20notes%3F</text>
-      </controlProperties>
-    </control>
-    <control controlID="173" controlTypeID="com.balsamiq.mockups::Icon" x="666" y="422" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="30" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>Trash2Icon%7Csmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="175" controlTypeID="com.balsamiq.mockups::Icon" x="840" y="422" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="31" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>JumpBackIcon%7Csmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="176" controlTypeID="com.balsamiq.mockups::Button" x="848" y="768" w="218" h="42" measuredW="52" measuredH="27" zOrder="32" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Save</text>
-      </controlProperties>
-    </control>
-    <control controlID="177" controlTypeID="com.balsamiq.mockups::Button" x="644" y="768" w="204" h="42" measuredW="64" measuredH="27" zOrder="33" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Cancel</text>
-      </controlProperties>
-    </control>
-    <control controlID="178" controlTypeID="com.balsamiq.mockups::Component" x="1042" y="484" w="10" h="147" measuredW="10" measuredH="147" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="217" controlTypeID="com.balsamiq.mockups::Component" x="1053" y="412" w="10" h="147" measuredW="10" measuredH="147" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="0" w="10" h="147"/>
-        <override controlID="-1"/>
         <src>$ACCOUNT/assets/Android%204%20Controls.bmml#ga-scrollbar-vertical</src>
       </controlProperties>
     </control>
-    <control controlID="180" controlTypeID="com.balsamiq.mockups::Icon" x="1013" y="422" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="224" controlTypeID="com.balsamiq.mockups::RoundButton" x="830" y="373" w="10" h="10" measuredW="32" measuredH="32" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
-        <icon>PlusIcon%7Csmall</icon>
+        <color>10066329</color>
+        <text/>
       </controlProperties>
     </control>
-    <control controlID="181" controlTypeID="com.balsamiq.mockups::HRule" x="658" y="451" w="382" h="-1" measuredW="100" measuredH="10" zOrder="36" locked="false" isInGroup="-1"/>
-    <control controlID="182" controlTypeID="com.balsamiq.mockups::StickyNote" x="1109" y="133" w="338" h="199" measuredW="109" measuredH="123" zOrder="37" locked="false" isInGroup="-1">
+    <control controlID="225" controlTypeID="com.balsamiq.mockups::RoundButton" x="858" y="373" w="10" h="10" measuredW="32" measuredH="32" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>This%20shows%20editing%20details..%0A%20%0AI%20think%20just%20touching%20an%20item%20on%20the%20home%20page%20should%20just%20expand%20into%20a%20larger%20view%2C%20maybe%20display%20the%20carousel%20of%20photos%20%28if%20applicable%29%20then%20%28only%20show%20first%20photo%20on%20home%20page%29.%0A%20%0AThen%20click%20the%20pencil%20to%20go%20to%20the%20edit%20view.</text>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="226" controlTypeID="com.balsamiq.mockups::RoundButton" x="885" y="373" w="10" h="10" measuredW="32" measuredH="32" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="233" controlTypeID="com.balsamiq.mockups::Icon" x="1001" y="117" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PencilIcon%7Csmall</icon>
       </controlProperties>
     </control>
   </controls>
